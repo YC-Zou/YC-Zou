@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @YC-Zou
 - 👀 I’m interested in Artificial Intelligence, especially in Multimodal-Large-Language-Models.
-- 🌱 I’m currently a postgraduate in Wuhan University.
+- 🌱 I’m currently a 21-year-old graduate student in Wuhan University.
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=YC-Zou&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
